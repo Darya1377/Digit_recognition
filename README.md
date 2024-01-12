@@ -20,3 +20,4 @@ To start testing:
 
 ```python -m unittest test.py```
 
+You can test with any square-shaped image(here it was tested with Screenshot_1.png image)
